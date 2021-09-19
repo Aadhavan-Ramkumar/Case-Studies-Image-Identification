@@ -36,3 +36,18 @@ h5 b {
     margin-left: 20px;
     padding-top: 10px;
 }
+
+.TextImagesAndResults {
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+
+.CopyRightFooter {
+    position: fixed;
+    color: #6C757D;
+    bottom: 0;
+    width: 100%;
+    background-color: #F5F5F5;
+    line-height: 3;
+    text-align: center;
+}
