@@ -1,5 +1,5 @@
 body {
-    font-family: 'Besley', serif;
+    font-family: 'Montserrat', serif;
     background: #F5DBDA;
 }
 
@@ -23,7 +23,7 @@ li img {
     padding-bottom: 10px;
 }
 
-h5 b {
+b {
     color: purple;
 }
 
@@ -50,4 +50,15 @@ h5 b {
     background-color: #F5F5F5;
     line-height: 3;
     text-align: center;
+}
+
+.Result {
+    padding-bottom: 20px;;
+}
+
+.Conclusion {
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+    background-color: pink;
+    border-radius: 20px;
 }
